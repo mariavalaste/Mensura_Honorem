@@ -4,4 +4,6 @@ title: "Mensura Honorem!"
 
 Hello there! :-)
 
-Add here some text...
+Add here some text here...
+
+![](images/logo2.png)
