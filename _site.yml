@@ -1,9 +1,18 @@
-name: "my-website"
+name: "Website for this project"
 output_dir: docs
 navbar:
-  title: "My Website"
+  title: Project website
   left:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
+  - text: Home
+    href: index.html
+  - text: About
+    href: about.html
+  - text: Examples
+    menu:
+    - text: Chapter 1
+      href: Example-chapter1.html
+    - text: Chapter 2
+      href: Example-module2.html
+output:
+  html_document:
+    theme: cerulean

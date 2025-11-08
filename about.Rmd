@@ -2,4 +2,4 @@
 title: "About This Website"
 ---
 
-And some more about this website.
+Here some text about this website.
